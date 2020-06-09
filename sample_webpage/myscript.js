@@ -23,9 +23,9 @@ $(document).ready(function(){
     $(".date").remove();
 
     var newSidebarMenu = $(`
-		<li>New Templates</li>
-		<li>Order Template</li>
-		<li>Contact Us</li>
+		<li><a href="http://all-free-download.com/free-website-templates/"><span>New Templates</span></li>
+		<li><a href="http://all-free-download.com/free-website-templates/"><span>Order Template</span></li>
+		<li><a href="http://all-free-download.com/free-website-templates/"><span>Contact Us</span></li>
 	`);
 	$("ul.sidemenu:first").append(newSidebarMenu);
 
