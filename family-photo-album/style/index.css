@@ -118,6 +118,15 @@ h1 {
   background-color: rgba(72, 61, 139, 0.8);
   border-radius: 5px; }
 
+.sister {
+  border: 1px solid blue; }
+
+.friend {
+  border: 1px solid yellow; }
+
+.cousine {
+  border: 1px solid red; }
+
 .person:hover .overlay {
   opacity: 1; }
 
