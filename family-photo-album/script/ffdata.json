@@ -1,0 +1,45 @@
+var ffdata = `[
+    {
+        "name": "Fran",
+        "relation": "cousine",
+        "email": "fran@index.com",
+        "image": "media/person1.jpg",
+        "tel": "0680 &#47; 12 04 569"
+    }, {
+        "name": "Bill",
+        "relation": "friend",
+        "email": "bill@index.com",
+        "image": "media/person2.jpg",
+        "tel": "0680 &#47; 12 34 507"
+    }, {
+        "name": "Bella",
+        "relation": "sister",
+        "email": "bella@index.com",
+        "image": "media/person3.jpg",
+        "tel": "0680 &#47; 12 04 569"
+    }, {
+        "name": "Lola",
+        "relation": "cousine",
+        "email": "lola@index.com",
+        "image": "media/person4.jpg",
+        "tel": "0680 &#47; 12 94 507"
+    }, {
+        "name": "Loki",
+        "relation": "cousine",
+        "email": "loki@index.com",
+        "image": "media/person5.jpg",
+        "tel": "0680 &#47; 12 04 569"
+    }, {
+        "name": "thor",
+        "relation": "cousine",
+        "email": "thor@index.com",
+        "image": "media/person6.jpg",
+        "tel": "0681 &#47; 92 34 567"
+    }, {
+        "name": "Kenny",
+        "relation": "friend",
+        "email": "fran@index.com",
+        "image": "media/person7.jpg",
+        "tel": "0680 &#47; 12 04 569"
+    }
+]`
