@@ -1,3 +1,11 @@
+$(document).ready(function(){
+    
+});
+
+
+
+
+
 /*
  * My jQuery selectors
  *
