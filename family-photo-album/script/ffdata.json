@@ -35,11 +35,5 @@ var ffdata = `[
         "email": "thor@index.com",
         "image": "media/person6.jpg",
         "tel": "0681 &#47; 92 34 567"
-    }, {
-        "name": "Kenny",
-        "relation": "friend",
-        "email": "fran@index.com",
-        "image": "media/person7.jpg",
-        "tel": "0680 &#47; 12 04 569"
     }
 ]`
